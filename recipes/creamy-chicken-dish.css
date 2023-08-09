@@ -1,0 +1,19 @@
+pre
+{
+    color: rgb(135, 6, 255);
+    background-color: bisque;
+    font-weight: 1000;
+    font-size: large;
+}
+
+h4
+{
+    background-color: orange;
+    color: rgb(29, 110, 29);
+}
+img
+{
+    height:auto;
+    width: 500px;
+    display: flex
+}
